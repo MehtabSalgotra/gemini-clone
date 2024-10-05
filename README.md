@@ -33,8 +33,4 @@ This project introduces a React-based web application that functions as a clone 
 - **Advanced UI Elements:** Introduces additional features like emojis, formatting options, or user avatars.
 - **Enhanced Functionality:** Explores integrating functionalities like image search or language translation.
 
-## How to use
 
-1.  Clone the repo <code>git clone https://github.com/bulla1623/gemini_clone </code>
-2.  Install required dependencies <code>npm i</code>
-3. Run the server <code>npm run dev</code>
